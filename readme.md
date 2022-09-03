@@ -13,8 +13,9 @@ https://docs.google.com/document/d/19MNbA9birxSfkVOEb3W8wa4POsZn5gQRHnWgERd_W1E/
 
 > cd test_task_nlp
 
-## Важно
+### Важно
 В папку test_task_nlp следует поместить файл test_data.csv
+
 А также необходимо скачать предобученную модель по ссылке - https://drive.google.com/file/d/1dZFWt9yMTtgAey5BnmTB7ALWlcr0Jd48/view?usp=sharing 
 (модель скачана с rusvectores, весит больше 100мб)
 
